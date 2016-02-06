@@ -1,2 +1,2 @@
 # mailcow-owncloud
-A Mailcow Mailserver in a Docker-Container
+A Mailserver based on the Mailcow-Script in a Docker-Container
